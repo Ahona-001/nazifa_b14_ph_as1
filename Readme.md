@@ -31,6 +31,7 @@ The project is organized in a simple way to make the code easy to understand.
 - The `assets` folder contains all the images and other required resources used in the project.
 - The `UI` folder contains the original Figma design (*Before*) and my final implementation (*After*).
 - I added comments in both the HTML and CSS files so that each section can be found and understood easily.
+- `ExplainingConcepts.md` contains my written explanation of the required HTML and CSS concepts as an alternative to the optional explanation video.
 
 
 ## Live Website
