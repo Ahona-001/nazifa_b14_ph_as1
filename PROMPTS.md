@@ -14,4 +14,3 @@ Requirements:
 - Include a section heading, a short description, and a "Join Hackathon" button
 - The design should be simple, responsive, and match the overall DevConf website style
 - Do not generate any other sections or extra features. Only create the Hackathon section.
-- No extra features needed
